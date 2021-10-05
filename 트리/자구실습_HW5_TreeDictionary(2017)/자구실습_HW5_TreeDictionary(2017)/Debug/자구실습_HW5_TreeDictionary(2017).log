@@ -1,0 +1,5 @@
+﻿  DictionaryTree.c
+c:\users\minah\desktop\자구실습_hw5_treedictionary(2017)\자구실습_hw5_treedictionary(2017)\dictionarytree.c(60): warning C4033: 'insert_last'은(는) 값을 반환해야 합니다.
+c:\users\minah\desktop\자구실습_hw5_treedictionary(2017)\자구실습_hw5_treedictionary(2017)\dictionarytree.c(271): warning C4477: 'fscanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'element'입니다.
+c:\users\minah\desktop\자구실습_hw5_treedictionary(2017)\자구실습_hw5_treedictionary(2017)\dictionarytree.c(80): warning C4715: 'insert_last': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  자구실습_HW5_TreeDictionary(2017).vcxproj -> C:\Users\minah\Desktop\자구실습_HW5_TreeDictionary(2017)\Debug\자구실습_HW5_TreeDictionary(2017).exe

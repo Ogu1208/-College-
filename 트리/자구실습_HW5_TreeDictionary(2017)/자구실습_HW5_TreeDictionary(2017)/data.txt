@@ -1,0 +1,10 @@
+i root 뿌리
+i river 강
+i moon 달
+i root 루트
+i liver 간
+s root
+s river
+d river
+p
+q
